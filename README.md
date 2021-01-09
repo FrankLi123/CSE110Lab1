@@ -1,2 +1,2 @@
 # CSE110Lab1
-This is the Lab1 of CSE100
+This is the Lab1 of CSE110
